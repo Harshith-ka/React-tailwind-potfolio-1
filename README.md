@@ -1,6 +1,5 @@
 🚀 Modern Animated Developer Portfolio with React + TailwindCSS
-<div align="center"> <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank"> <img src="./banner.png" alt="Portfolio Website Banner" style="border-radius:12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);" /> </a> <br /><br /> <p> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Lucide%20Icons-FD4D4D.svg?style=for-the-badge&logo=lucide&logoColor=white" /> <img src="https://img.shields.io/badge/Radix%20UI-9D4EDD.svg?style=for-the-badge&logo=storybook&logoColor=white" /> </p> <h3>✨ Build a Fully-Responsive Portfolio with Dark Mode, Smooth Animations & Interactive UI ✨</h3> <p> 🎥 Watch the full step-by-step tutorial on <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank"><b>YouTube</b></a> </p> </div>
-🌀 Overview
+
 Bring your personal brand to life with this modern, animated, and mobile-friendly developer portfolio.
 This guide shows you how to combine React, TailwindCSS, and Vite with subtle animations and interactive effects to make a site that’s not just beautiful — but also memorable.
 
